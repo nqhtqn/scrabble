@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1606398595 source:c:\users\nathan\documents\cours\informatique\exercice\scrabble\main.c
-	"header.h"
-
-1606401565 c:\users\nathan\documents\cours\informatique\exercice\scrabble\header.h
-	<stdio.h>
-	<stdlib.h>
-
