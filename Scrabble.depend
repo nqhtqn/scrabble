@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1605531694 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\chronomètre.c
+
+1607274803 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\plateau.c
+	"header.h"
+
+1607275397 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\menu.c
+	"header.h"
+
+1607275258 d:\users\adrien\ece\cours\info\codeblocks\scrabble\header.h
+	<Windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1607274804 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\dictionnaire.c
+	"header.h"
+
+1607275337 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\main.c
+	"header.h"
+
+1607274804 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\pioche.c
+	"header.h"
+
+1607276189 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\nombrejoueur.c
+	"header.h"
+
+1607274804 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\couleur.c
+	"header.h"
+
+1607274804 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\nomjoueur.c
+	"header.h"
+
+1607274804 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\distribution.c
+	"header.h"
+
+1607274804 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\action.c
+	"header.h"
+
+1607275258 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\score.c
+	"header.h"
+
+1606989545 source:d:\users\adrien\ece\cours\info\codeblocks\scrabble\test.c
+
+1607274806 source:c:\users\poloe\onedrive\bureau\scrabble fin\action.c
+	"header.h"
+
+1607275260 c:\users\poloe\onedrive\bureau\scrabble fin\header.h
+	<Windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1605531696 source:c:\users\poloe\onedrive\bureau\scrabble fin\chronomètre.c
+
+1607274806 source:c:\users\poloe\onedrive\bureau\scrabble fin\couleur.c
+	"header.h"
+
+1607274806 source:c:\users\poloe\onedrive\bureau\scrabble fin\dictionnaire.c
+	"header.h"
+
+1607274806 source:c:\users\poloe\onedrive\bureau\scrabble fin\distribution.c
+	"header.h"
+
+1607280008 source:c:\users\poloe\onedrive\bureau\scrabble fin\main.c
+	"header.h"
+
+1607275398 source:c:\users\poloe\onedrive\bureau\scrabble fin\menu.c
+	"header.h"
+
+1607276190 source:c:\users\poloe\onedrive\bureau\scrabble fin\nombrejoueur.c
+	"header.h"
+
+1607274806 source:c:\users\poloe\onedrive\bureau\scrabble fin\nomjoueur.c
+	"header.h"
+
+1607274806 source:c:\users\poloe\onedrive\bureau\scrabble fin\pioche.c
+	"header.h"
+
+1607274804 source:c:\users\poloe\onedrive\bureau\scrabble fin\plateau.c
+	"header.h"
+
+1607275260 source:c:\users\poloe\onedrive\bureau\scrabble fin\score.c
+	"header.h"
+
+1606989546 source:c:\users\poloe\onedrive\bureau\scrabble fin\test.c
+
+1607274806 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\action.c
+	"header.h"
+
+1607275260 c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\header.h
+	<Windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1605531696 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\chronomètre.c
+
+1607274806 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\couleur.c
+	"header.h"
+
+1607274806 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\dictionnaire.c
+	"header.h"
+
+1607274806 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\distribution.c
+	"header.h"
+
+1607280008 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\main.c
+	"header.h"
+
+1607275398 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\menu.c
+	"header.h"
+
+1607276190 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\nombrejoueur.c
+	"header.h"
+
+1607274806 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\nomjoueur.c
+	"header.h"
+
+1607274806 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\pioche.c
+	"header.h"
+
+1607274804 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\plateau.c
+	"header.h"
+
+1607275260 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\score.c
+	"header.h"
+
+1606989546 source:c:\users\nathan\documents\ece\ing1\informatique\ing1-informatique-projet scrabble\code scrabble\test.c
+
